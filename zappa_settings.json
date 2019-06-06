@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "app_function": "UserSide.server",
+        "aws_region": "us-east-1",
+        "profile_name": "hackathon",
+        "project_name": "deepinsight-ai-",
+        "runtime": "python3.6",
+        "s3_bucket": "deepinsight-zappa-bkt"
+    }
+}

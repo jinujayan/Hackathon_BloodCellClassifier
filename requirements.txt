@@ -1,0 +1,8 @@
+zappa
+numpy
+scipy
+dash
+dash_core_components
+dash_html_components
+flask
+boto3
